@@ -36,7 +36,7 @@ for num3 in 0..9
     resultado = num3 * multiplicador
     puts "#{num3} x #{multiplicador} = #{resultado}"
   end
-  puts "\n" #agrego un salto de linea opcional y solo para mayor claridad en consola
+  puts "" #agrego un salto de linea opcional y solo para mayor claridad en consola
 end
 
 
